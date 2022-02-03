@@ -1,4 +1,4 @@
-# **ZeroBiz** Template V1 (**Full**) 🔥:
+# **ZeroBiz** Template V1 (**Starter**) 🔥:
 ## Bulma Css Framework  <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" width=30>
 
 ### You Can See Full Toutrial <a href ="https://www.youtube.com/c/UltrasDzCoder?sub_confirmation=1">Here</a>
